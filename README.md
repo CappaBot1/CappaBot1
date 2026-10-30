@@ -1,16 +1,16 @@
-## Hi there 👋
+# Casper Howse
 
-<!--
-**CappaBot1/CappaBot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*None of this "Hi there 👋" stuff, emojis look like AI*
 
-Here are some ideas to get you started:
+### My stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,deno,cloudflare,postgres,git,github,vscodium,mint,linux)](https://skillicons.dev)
+
+### Other skills
+
+[![Other Skills](https://skillicons.dev/icons?i=py,arch,mysql,vim,stackoverflow,raspberrypi,p5js,nix,figma,docker,bash,arduino,discord)](https://skillicons.dev)
+
+## Portfolio
+
+My own website, [cappabot.com](https://cappabot.com)  
+I've worked in a team to develop [CappaChat](https://chat.cappabot.com), a real-time, persistent communication platform featuring user logins and authentication
